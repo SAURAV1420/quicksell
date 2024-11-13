@@ -1,0 +1,25 @@
+.kanban-card {
+  position: relative;
+  padding: 16px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 12px;
+}
+
+.ticket-id {
+  font-size: 0.85em;
+  color: #888;
+}
+
+.ticket-tag {
+  font-size: 0.85em;
+  color: #888;
+  margin-top: 8px;
+}
+
+.user-profile {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
